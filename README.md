@@ -1,2 +1,6 @@
-# learn-react-MobX
-Learning MobX
+# React + MobX
+
+## Изучение
+
+- MobX
+- Typescript
