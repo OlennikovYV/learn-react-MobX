@@ -1,4 +1,4 @@
-import Panels from "../containers/Panels";
+import { Panels } from "../containers/Panels";
 
 function Main() {
   return (
