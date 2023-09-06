@@ -1,10 +1,9 @@
-import Counter1 from "./counter1";
-import Counter2 from "./counter2";
+import Counter from "./counter";
 
 export default class RootStore {
   constructor() {
-    this.counter1 = new Counter1();
-    this.counter2 = new Counter2();
+    this.counter1 = new Counter();
+    this.counter2 = new Counter();
   }
 
   resetAll = () => {
